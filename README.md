@@ -1,4 +1,4 @@
-# 🖊️ Digital Whiteboard App (Python Tkinter)
+# 🖊️ Digital Whiteboard App
 
 A fully functional digital whiteboard application built using **Tkinter** that allows you to draw, erase, insert and move images, choose colors, undo/redo, clear the screen, and save your drawings.
 
