@@ -9,8 +9,7 @@ A fully functional digital whiteboard application built using **Tkinter** that a
 - ✅ Draw freehand with adjustable thickness
 - ✅ Color palette for quick selection
 - ✅ Eraser tool
-- ✅ Undo & Redo drawing strokes
-- ✅ Insert images and move them around
+- ✅ Insert images and draw inside
 - ✅ Clear entire screen
 - ✅ Save canvas as `.png` 
 - ✅ Simple, user-friendly UI with icons
